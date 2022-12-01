@@ -1,7 +1,10 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 
+Name :Swathika G
 
-Ex. No. : 3
+Roll no :212221230113
+
+Date of experiment : 23/09/2022
 
  
 ### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
